@@ -2,7 +2,7 @@
 
 **Preview Output**
 
-![loss_anim_Two-node_hidden_layer](loss_anim_Two-node_hidden_layer.gif)
+![loss_anim_Two-node_hidden_layer](figures/loss_anim_Three-node_hidden_layer.gif)
 
 # 🔬 Formal Research Introduction:
 From-Scratch Neural Network Architectures: A Comparative Study of Learning Dynamics, Optimization, and Visualization Techniques
@@ -33,7 +33,9 @@ All plots and animations are saved in the  directory:
 • 	Static loss curves for each architecture
 • 	Animated GIFs showing training loss progression
 • 	Decision boundary evolution during training
-Requirements
+
+
+# Requirements
 • 	Python 3.7+
 • 	Numpy
 • 	matpltlb
