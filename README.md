@@ -1,8 +1,5 @@
 # From-Scratch-Neural-Network-Lab
-![Holography Animation](loss_anim.gif)
-
-![Static Hologram](hologram_snapshot.png)
-
+![loss_anim_Two-node_hidden_layer.gif]
 # 🔬 Formal Research Introduction:
 From-Scratch Neural Network Architectures: A Comparative Study of Learning Dynamics, Optimization, and Visualization Techniques
 In recent years, the interpretability and design of neural networks have become central themes in both academic research and industrial applications. While high-level frameworks like TensorFlow and PyTorch offer powerful abstractions, they often obscure the underlying mechanics of learning. This project presents a rigorous, from-scratch implementation of feedforward neural networks in Python, aimed at demystifying the core principles of neural computation, optimization, and architectural design.
