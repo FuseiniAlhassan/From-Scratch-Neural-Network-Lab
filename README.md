@@ -1,4 +1,5 @@
 # From-Scratch-Neural-Network-Lab
+
 **Preview Output**
 
 ![loss_anim_Two-node_hidden_layer](loss_anim_Two-node_hidden_layer.gif)
