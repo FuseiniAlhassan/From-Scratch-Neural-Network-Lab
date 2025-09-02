@@ -33,7 +33,7 @@ All plots and animations are saved in the  directory:
 • 	Static loss curves for each architecture
 • 	Animated GIFs showing training loss progression
 • 	Decision boundary evolution during training
-
+![loss_comparison](figures/loss_comparison.png)
 
 # Requirements
 • 	Python 3.7+
